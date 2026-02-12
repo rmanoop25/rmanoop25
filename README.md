@@ -17,8 +17,11 @@
 
   ### Links
 
-  - [LinkedIn](https://www.linkedin.com/in/anoop-r-m-4a92331b9/)
+  - [LinkedIn](https://www.linkedin.com/in/rmanoop25/)
+  - [X (Twitter)](https://x.com/rmanoop25)
+  - [Instagram](https://www.instagram.com/rmanoop25)
   - [CZ App Studio](https://czappstudio.com)
+  - [NV360](https://nv360.ae)
 <!---
 rmanoop25/rmanoop25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
